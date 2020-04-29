@@ -1,0 +1,19 @@
+{
+  "name": "sysinfoapp",
+  "version": "1.0.0",
+  "description": "Simple System Monitor",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RT-Colby/SysViewer.git"
+  },
+  "author": "Colby Frey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RT-Colby/SysViewer/issues"
+  },
+  "homepage": "https://github.com/RT-Colby/SysViewer#readme"
+}
